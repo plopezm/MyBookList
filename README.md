@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# MyBookList with react and redux
 
 ###Getting Started###
 
